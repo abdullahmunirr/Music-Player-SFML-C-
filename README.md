@@ -14,6 +14,7 @@ A lightweight command-line music player built in C++ using the SFML library for 
 # Getting Started
 
 Prerequisites : 
+
 	•	A C++ compiler supporting C++11 or later.
 	•	SFML Library:
 	•	Install SFML on your system:
@@ -23,6 +24,7 @@ Prerequisites :
 
 # Usage
 Menu Options:
+
 	1.	Add a song to the playlist.
 	2.	Remove a song from the playlist.
 	3.	View all songs in the playlist.
@@ -36,18 +38,24 @@ Menu Options:
 
 # Documentation
 
-Development Background
+Development Background:
+
+
 	•	Objective: Build a lightweight, dynamic music player demonstrating:
 	•	Integration of SFML with C++.
 	•	Linked list management for playlists.
 	•	Command-line user interfaces.
 
 Challenges Addressed:
+
+
 	1.	Proper integration of SFML with C++ for audio playback.
 	2.	Dynamic memory management to handle linked lists effectively.
 	3.	Undo feature implementation for playlist management.
 
 Learning Outcomes:
+
+
 	•	Deepened understanding of data structures.
 	•	Enhanced problem-solving skills with third-party libraries.
 	•	Experience in managing and optimizing dynamic memory.
